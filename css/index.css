@@ -1,0 +1,31 @@
+body {
+    background-color: #404040;
+}
+p {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #252525;
+    color: #0fffff;
+    font-size: 1.5em;
+    border-radius:15px;
+}
+button {
+    background-color: #505050;
+    padding: 13px 14px;
+    width: 100%;
+    font-size: 1.5em;
+    font-family: 楷体;
+    color: white;
+    border-radius: 15px;
+}
+button.clicked {
+    background-color: #b3e2fd;
+    padding: 13px 14px;
+    width: 100%;
+    font-size: 1.5em;
+    font-family: 楷体;
+    color: black;
+    border-radius: 15px;
+}
